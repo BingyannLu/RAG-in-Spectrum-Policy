@@ -7,4 +7,5 @@ The repository includes:
 2. Test Dataset: A corresponding dataset of question-answer pairs for evaluating system performance.
 Both datasets are provided in CSV format for ease of use and integration into various RAG workflows.
 3. download_pdf.py is designed to automatically collect and archive public documents from FCC proceedings.
-4. Spectrumrag.py is designed to run on Google Colab and integrates with Google Drive for data storage and retrieval. To run the program locally, some adjustments are needed to replace Colab-specific components and reconfigure file access paths.
+4. Spectrum_policy_chat_robot.py is designed to run on Google Colab and integrates with Google Drive for data storage and retrieval. To run the program locally, some adjustments are needed to replace
+Colab-specific components and reconfigure file access paths.
